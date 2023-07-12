@@ -1,0 +1,28 @@
+#map {
+    height: 100%;
+  }
+  html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+        text-align: center;
+  }
+
+  #map {
+    height: 500px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 0 10px 25px -10px rgba(0, 0, 0, 0.5);
+  }
+  body{
+    background-image: url('https://source.unsplash.com/1600x900/?landscape');
+  }
+  .container{
+      background-color: #fff;
+      height: 500px;
+      width: 600px;
+      border-radius: 7px;
+      padding: 20px;
+      transition: .1s;
+      margin: auto;
+    }
